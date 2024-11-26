@@ -1,0 +1,35 @@
+name: Polish Soldiers Clans
+key: polishsoldiers
+color: black
+emblem: Flame_03
+info:
+  logo: /psold.files.wordpress.com/2019/02/logo_ps_sabbs.png
+  description: >
+    Polski / English. 
+    Dołącz do największej i najbardziej zgranej grupy Klanów Wojennych w Polsce. 
+    Kultura, wiedza, Discord - dobra zabawa! Join us to share experience, 
+    communicate on Discord and have lots of fun playing the best Clan Wars ever.
+  social:
+    - discord: https://discord.gg/Z9TRYA4z7V
+    - website: https://psold.wordpress.com
+clans:
+  - name: Polish Soldiers
+    tag: 2CVY8GUG
+  - name: PS2 AKADEMIA
+    tag: P0RU2CL8
+  - name: PS3 AKADEMIA
+    tag: QPLCJPGV
+  - name: PS4  AKADEMIA
+    tag: LVJLJRVJ
+  - name: PS5 AKADEMIA
+    tag: QO9QOQY2
+  - name: PS6 AKADEMIA
+    tag: LLCPCGVG
+  - name: PS7 AKADEMIA
+    tag: QPUYVJV2
+  - name: PS8 AKADEMIA
+    tag: GQ099YP2
+  - name: PS MINI
+    tag: QJY9PUQL
+    
+
